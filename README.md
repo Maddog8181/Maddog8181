@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 👋ʕ·ᴥ·ʔ
+My name is Daniil
 
-<!--
-**Maddog8181/Maddog8181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying at the Polar State University.
 
-Here are some ideas to get you started:
+In my free time, I play games and try to learn programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📞 My Telegram:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Daniildadaya)
+
